@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the feauturing thojmas feature.
+ */
+
+include_once 'feauturing_thojmas.features.inc';
